@@ -1857,6 +1857,11 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
+"@mobiscroll/react@5.26.0":
+  version "5.26.0"
+  resolved "https://npm.mobiscroll.com/@mobiscroll%2freact/-/react-5.26.0.tgz#2402d7e7e6269ef00518a5ab5c7194db5fc1bed0"
+  integrity sha512-kmIjunN8/Ei/fbWUL9Xi756LXEq3Bdpf+8tYJ3yvTGy2xC0O1h64SJ31A7wjRKPycLLopfq143T9YQxPwYPd3A==
+
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz#dbf733a965ca47b1973177dc0bb6c889edcfb129"
