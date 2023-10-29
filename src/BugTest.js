@@ -18,7 +18,11 @@ export const BugTest = () => {
         start: '2023-10-28T08:00',
         end: '2023-10-30T08:00',
         title: 'Event 1',
-        resource: 'res1'
+        resource: 'res1',
+        recurring: {
+            repeat: 'weekly',
+            weakDays: 'SA'
+        }
     }, ]
 }, []);
 
