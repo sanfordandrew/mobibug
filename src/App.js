@@ -1,10 +1,10 @@
  import './App.css';
- import { DnyColor } from './DnyColor';
+ import { BugTest } from './BugTest';
 
 function App() {
   return (
     <div className="App">
-      <DnyColor/>
+      <BugTest/>
     </div>
   );
 }
