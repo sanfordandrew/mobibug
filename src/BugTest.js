@@ -21,7 +21,7 @@ export const BugTest = () => {
         resource: 'res1',
         recurring: {
             repeat: 'weekly',
-            weakDays: 'SA'
+            weekDays: 'SA'
         }
     }, ]
 }, []);
