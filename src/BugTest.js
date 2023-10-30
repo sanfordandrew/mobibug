@@ -20,8 +20,7 @@ export const BugTest = () => {
         title: 'Event 1',
         resource: 'res1',
         recurring: {
-            repeat: 'weekly',
-            weekDays: 'SA'
+            repeat: 'weekly'
         }
     }, ]
 }, []);
